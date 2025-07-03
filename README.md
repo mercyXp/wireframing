@@ -8,7 +8,7 @@ Throughout this journey, I explored wireframing fundamentals, tools like **Figma
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Objectives
 
 By completing this project, I was able to:
 
@@ -20,7 +20,7 @@ By completing this project, I was able to:
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 To work through this project, the following prerequisites were important:
 
@@ -33,22 +33,22 @@ To work through this project, the following prerequisites were important:
 
 ## 🧠 Key Highlights
 
-### 🧭 Introduction to Wireframing
+### Introduction to Wireframing
 - Learned the purpose of wireframes and how they support software design and planning.
 
-### 🧱 Key Elements of Wireframes
+### Key Elements of Wireframes
 - Explored layout design, content placement, functionality representation, and navigation patterns.
 
-### 📊 Types of Wireframes
+### Types of Wireframes
 - Compared **low-fidelity** sketches with **high-fidelity** digital wireframes used in client-facing demos.
 
-### 💻 Focus on Figma
+### Focus on Figma
 - Practiced creating collaborative designs using **Figma**, and appreciated its real-time feedback features.
 
-### 🌍 Real-World Applications
+### Real-World Applications
 - Studied case studies showing how early wireframing prevented usability problems later in development.
 
-### 📝 Documentation Practice
+### Documentation Practice
 - Created this `README.md` as part of the project, showcasing professional documentation practices.
 
 ---
